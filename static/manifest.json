@@ -1,0 +1,13 @@
+{
+	"name": "archsnap",
+	"description": "Switch to the latest snapshot of a page on archive.is",
+	"version": "1.0.0",
+	"manifest_version": 3,
+	"permissions": ["activeTab"],
+	"host_permissions": ["https://archive.is/*"],
+	"action": {
+		"default_title": "archsnap",
+		"default_icon": "favicon.png",
+		"default_popup": "index.html"
+	}
+}
