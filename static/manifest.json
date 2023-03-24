@@ -1,12 +1,12 @@
 {
-	"name": "archsnap",
+	"name": "snapswap",
 	"description": "Switch to the latest snapshot of a page on archive.is",
 	"version": "1.0.0",
 	"manifest_version": 3,
 	"permissions": ["activeTab"],
 	"host_permissions": ["https://archive.is/*"],
 	"action": {
-		"default_title": "archsnap",
+		"default_title": "snapswap",
 		"default_icon": "icon-80.png",
 		"default_popup": "index.html"
 	}
