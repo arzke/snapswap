@@ -7,7 +7,7 @@
 	"host_permissions": ["https://archive.is/*"],
 	"action": {
 		"default_title": "archsnap",
-		"default_icon": "favicon.png",
+		"default_icon": "icon-80.png",
 		"default_popup": "index.html"
 	}
 }
